@@ -1,3 +1,4 @@
+
 create table Veiculo (
 Id int primary key,
 Descricao varchar(100) not null,
